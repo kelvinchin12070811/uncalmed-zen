@@ -2,7 +2,7 @@
 
 > ⚠️ Warning
 >
-> Enable unsupported features on Zen Browser is not recommended, it could cause certain issues which did not get
+> Enable unsupported features on Zen Browser is not recommended, it could cause certain issues which might not get
 > supports by the Official Zen Team. If these features are required, please consider using Firefox instead. Or
 > [Floorp](https://floorp.app) is also a decent alternatie
 
