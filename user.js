@@ -5,3 +5,6 @@ user_pref("browser.ml.chat.shortcuts.custom", true);
 user_pref("browser.ml.chat.sidebar", true);
 user_pref("browser.ml.enable", true);
 user_pref("browser.ml.chat.provider", "https://gemini.google.com");
+
+// Re-enabled "Enhanced Tracking Protection" icon
+user_pref("zen.urlbar.show-protections-icon", true);
