@@ -4,7 +4,7 @@
 >
 > Enable unsupported features on Zen Browser is not recommended, it could cause certain issues which might not get
 > supports by the Official Zen Team. If these features are required, please consider using Firefox instead. Or
-> [Floorp](https://floorp.app) is also a decent alternatie
+> [Floorp](https://floorp.app) is also a decent alternative.
 
 The official release of [Zen Browser](https://zen-browser.app/) have several Firefox features disabled by default, This
 is due to their privacy focused goal. However, for the users who found these features useful and want to enable it back,
