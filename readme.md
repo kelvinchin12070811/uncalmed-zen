@@ -27,13 +27,16 @@ privacy focus aim is understandable but sometimes they could go too extream. Whi
 prevent anyone to use these features, an easily accessible settings via the preference page or `about:preferences` are
 not yet available. The main goal is to make the process of these features back easily, and beter synchronization.
 
-## Reverted Options
+## Reverted/ Re-enabled Options
 
 The following is a list of flags/ features that currently get reverted by Uncalmed Zen, and the PR/ Issue that
 introduced it:
 
   - AI Chat related stuff: Disabled at PR [#6244](https://github.com/zen-browser/desktop/pull/6244) in response of
     the discussion [#6236](https://github.com/zen-browser/desktop/discussions/6236).
+
+  - Enhanced Tracking Protection Icon: Disabled for unclutterd UI, mentioned at issue
+    [#7195](https://github.com/zen-browser/desktop/issues/7195)
 
 ## Installation
 
