@@ -8,7 +8,7 @@
 
 The official release of [Zen Browser](https://zen-browser.app/) have several Firefox features disabled by default, This
 is due to their privacy focused goal. However, for the users who found these features useful and want to enable it back,
-currently Zen Browser did not provide an easy access settings under the preference page (aka `about:preference`).
+currently Zen Browser did not provide an easy access settings under the preference page (aka `about:preferences`).
 Instead, users need to navigate to `about:config` to enable them back. This however, create several issues including
 but not limited to:
 
@@ -24,7 +24,7 @@ but not limited to:
 
 Uncalmed Zen is a user.js configs that enable back some claimed to be "unwanted" features, but indeed useful. The
 privacy focus aim is understandable but sometimes they could go too extream. While the Zen Team said that they won't
-prevent anyone to use these features, an easily accessible settings via the preference page or `about:preference` are
+prevent anyone to use these features, an easily accessible settings via the preference page or `about:preferences` are
 not yet available. The main goal is to make the process of these features back easily, and beter synchronization.
 
 ## Reverted Options
